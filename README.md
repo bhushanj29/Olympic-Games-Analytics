@@ -42,3 +42,22 @@ To analyze Olympic Games data and present meaningful insights through interactiv
 
 ## Author
 Bhushan Jadhao
+
+---
+
+## Dashboard Previews
+
+### 1. Olympic Overview
+![Olympic Overview](01_Olympic_Overview.png)
+
+### 2. Medals Analysis
+![Medals Analysis](02_Medals_Analysis.png)
+
+### 3. Sports Analysis
+![Sports Analysis](03_Sports_Analysis.png)
+
+### 4. Countries Analysis
+![Countries Analysis](04_Countries_Analysis.png)
+
+### 5. Athletes Analysis
+![Athletes Analysis](05_Athletes_Analysis.png)
